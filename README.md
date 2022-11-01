@@ -1,6 +1,6 @@
 ## Firebase Middleware Verify Id Token
 
-## USE
+## Used
 
 ```bash
 
