@@ -54,3 +54,7 @@ func authMiddleware() fiber.Handler {
 }
 
 ```
+
+# links
+
+https://github.com/duongdam/fire-verify-auth
