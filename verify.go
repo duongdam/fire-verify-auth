@@ -10,7 +10,7 @@ import (
 	"net/http"
 	"strings"
 
-	jwtGo "github.com/dgrijalva/jwt-go"
+	jwtGo "github.com/golang-jwt/jwt/v4"
 )
 
 const (
